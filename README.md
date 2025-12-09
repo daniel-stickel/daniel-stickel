@@ -1,5 +1,9 @@
 # 💫 About Me:
-Olá, meu nome é Daniel, me formei no curso de Análise e Desenvolvimento de Sistemas no último semestre de 2024, pelo Centro Universitário Leonardo da Vinci - Uniasselvi. Atualmente estou participando do programa de capacitação +Dev2Blu 2025, onde estou em transição de carreira e ficaria muito grato por uma oportunidade na área.<br><br>Já fiz diversos cursos na área, todos com projetos e certificado, entre os que mais agragei conhecimento foram C#, angular, node js, javascript, typescript, MySQL, e também o que mais tive aprendizado, que foi C# Patterns Microsoft com certificado utilizando um framework MVC e também com uso DALL E BALL.
+Olá, me chamo Daniel. Acredito ter o perfil ideal para uma futura vaga de estágio, sou um desenvolvedor em formação com 20 anos de vivência no ramo da comunicação visual.<br><br>
+
+Trabalhei até recentemente por 20 anos com Comunicação Visual, indo do chão de fábrica até a Gerência de Produção. Conheço profundamente as dores do setor, os fluxos de orçamento, produção e entrega — exatamente os problemas que o sistema de vocês resolve.<br><br>
+
+Hoje, graduado em Análise e Desenvolvimento de Sistemas (UNIASSELVI) e me especializando em C#, MySQL e Angular pelo programa +Dev2Blu, busco uma oportunidade de estágio. Quero unir meu conhecimento técnico em desenvolvimento com minha experiência de negócio para ajudar a criar soluções que façam sentido real para o usuário final, reduzindo o tempo de aprendizado sobre o produto e entregando valor desde o primeiro dia.
 
 
 ## 🌐 Socials:
